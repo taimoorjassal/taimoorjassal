@@ -7,7 +7,7 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @taimoorjassal
+- 👋 Hi, I’m Taimoor
 - 👀 I’m interested in Data, Machine Learning and Deep Learning
 - 🌱 I'm a software engineering junior.
 - 💞️ I’m looking to collaborate on ML and DL projects that can help me build better understanding in this domain.

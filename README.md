@@ -8,9 +8,9 @@
 </div>
 
 - 👋 Hi, I’m Taimoor
-- 👀 I’m interested in Data, Machine Learning and Deep Learning
-- 🌱 I'm a software engineering junior.
-- 💞️ I’m looking to collaborate on ML and DL projects that can help me build better understanding in this domain.
+- 👀 I’m interested in Data Engineering, Machine Learning and Deep Learning
+- 🌱 I'm a Data Engineer.
+- 💞️ I’m looking to collaborate on data enfineering projects.
 - 📫 How to reach me: You can reach out to me on my email "taimoorjassal@gmail.com" or the buttons above.
 
 ### :hammer_and_wrench: Languages and Tools :
